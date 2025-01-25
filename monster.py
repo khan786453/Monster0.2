@@ -14,7 +14,7 @@ os.system ('clear')
 
 # Constants for authentication
 USERNAME = "MONSTER"
-PASSWORD = "monster453"
+PASSWORD = "monster786453"
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -49,9 +49,9 @@ ARRAY_ANIMATION = [    f"{COLOR_BLUE}{ICON}{COLOR_GREEN}{ICON}{COLOR_YELLOW}{ICO
     f"   {COLOR_MAGENTA}{ICON}{COLOR_BLUE}{ICON}{COLOR_GREEN}{ICON}{COLOR_YELLOW}{ICON}{COLOR_RED}{ICON} ",
     f"    {COLOR_BLUE}{ICON}{COLOR_GREEN}{ICON}{COLOR_RED}{ICON}{COLOR_YELLOW}{ICON}{COLOR_MAGENTA}{ICON}"
 ]
-                              
-        time.sleep(0.5)
-
+                  
+                   
+                  
 def authenticate():
     print(Fore.YELLOW + "Please log in to access the tool." + Style.RESET_ALL)
     username_input = input(Fore.CYAN + "Username: " + Style. RESET_ALL)
@@ -102,7 +102,7 @@ def file_encoder():
                   '|            Author: MONSTER RuLex             |\n' +
                   '|  Python File Encoder & Obfuscator    |\n' +
                   '|    Github: github.com/khan-453      |\n' +
-                  '|    Facebook: facebook.com/Tʜe'w Moŋstɘr Insııdə    |\n' +
+                  '|    Facebook: facebook.com/    |\n' +
                   '========================================')
     print(banner)
 
